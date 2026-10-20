@@ -1,0 +1,25 @@
+{
+  "name": "talk-about-us",
+  "owner": {
+    "name": "Olaf Alders",
+    "email": "olaf@wundersolutions.com"
+  },
+  "metadata": {
+    "description": "Audit content for shareability using Anil Dash's framework - ensure others can authentically talk about your work without you present",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "talk-about-us",
+      "source": "./",
+      "description": "Audit content for shareability using Anil Dash's framework",
+      "version": "1.0.0",
+      "author": {
+        "name": "Olaf Alders"
+      },
+      "repository": "https://github.com/oalders/talk-about-us",
+      "license": "MIT",
+      "skills": "./skills/"
+    }
+  ]
+}
